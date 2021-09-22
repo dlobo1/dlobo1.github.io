@@ -1,0 +1,1 @@
+My name is Daniel Lobo and I am a PhD student in the Department of Sociology at UC Berkeley. I am interested primarily in the sociology of education, race and class, and social theory. Methodologically, I am interested in computational methods and causal inference. 
